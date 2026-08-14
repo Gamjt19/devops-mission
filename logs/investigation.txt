@@ -1,0 +1,27 @@
+4.0K	/home/gam-jt/devops-mission/backup
+4.0K	/home/gam-jt/devops-mission/logs
+4.0K	/home/gam-jt/devops-mission/application/frontend/images
+4.0K	/home/gam-jt/devops-mission/application/frontend/css
+4.0K	/home/gam-jt/devops-mission/application/frontend/js
+16K	/home/gam-jt/devops-mission/application/frontend
+4.0K	/home/gam-jt/devops-mission/application/database/backup
+4.0K	/home/gam-jt/devops-mission/application/database/data
+4.0K	/home/gam-jt/devops-mission/application/database/schema
+16K	/home/gam-jt/devops-mission/application/database
+4.0K	/home/gam-jt/devops-mission/application/backend/config
+4.0K	/home/gam-jt/devops-mission/application/backend/tests
+4.0K	/home/gam-jt/devops-mission/application/backend/src
+16K	/home/gam-jt/devops-mission/application/backend
+52K	/home/gam-jt/devops-mission/application
+4.0K	/home/gam-jt/devops-mission/archive
+4.0K	/home/gam-jt/devops-mission/scripts
+72K	/home/gam-jt/devops-mission/
+=======================================
+all log files
+-rw-rw-r-- 1 gam-jt gam-jt 0 Aug 14 04:52 error.log
+=======================================
+logs
+scripts
+archive
+application
+backup
